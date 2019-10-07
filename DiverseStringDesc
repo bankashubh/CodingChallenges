@@ -1,0 +1,15 @@
+Note- Only consider three alpabhets a ,b ,c
+A string is called diverse if no 3 consecutive letters are same. In other words diverse string may not contain any of the strings "aaa","bbb","ccc"
+
+Given three integers x,y,z write a function to return any longest possible diverse string containing at most x letters 'a', y letters 'b',z letters 'c'.
+If no possiblity of building any string return empty string
+
+example1
+x=8 ,y=1, z=1
+then function may return aabaacaa or aacaabaa
+example 2
+x=1,y=3,z=1
+then function may return abbcb
+
+z,y,z in range 1 to 100
+"""
