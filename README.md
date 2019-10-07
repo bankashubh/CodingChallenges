@@ -2,12 +2,14 @@
 My Solutions for some of the Coding Challenge questions
 
 
-Q: StringWithNoidentical3ConsecutiveLetter
-Desc: “Write a function solution that, given a string S of N lowercase English letters, returns a string #with no instances of three identical consecutive letters, obtained from S by deleting the minimum #possible number of letters”
+# Q: StringWithNoidentical3ConsecutiveLetter 
 
-examples:
+[Problem Description](StringWithNo3IdenticalConsecutiveLettersDesc)
 
-given S=“eedaaad” the function should return “eedaad”
-given S=“uuuuxaaaaxuuu” the function should return “uuxaaxuu”
+[Solution](StringWithNoidentical3ConsecutiveLetter.py)
 
-S = "uuuuxaaaaxuuu"
+# Q: DiverseString
+
+[Problem Description](DiverseStringDesc)
+
+[Solution](DiverseString.py)
